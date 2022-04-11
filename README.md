@@ -1,6 +1,6 @@
-# flutter_application_lauren_heller
+# first_flutter_app_baby_maker
 
-A new Flutter project.
+My first experience coding with Dart and using Flutter. IDE Visual Studio Code.
 
 ## Getting Started
 
